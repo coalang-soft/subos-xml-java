@@ -1,4 +1,4 @@
 github coalang-soft subos-datastore-java
 dir-create ./subos-xml-java/standalone-src
-dir-copy ./subos-datastore-java/src ./subos-xml-java/standalone-src
+dir-copy ./subos-datastore-java/standalone-src ./subos-xml-java/standalone-src
 dir-copy ./subos-xml-java/src ./subos-xml-java/standalone-src
